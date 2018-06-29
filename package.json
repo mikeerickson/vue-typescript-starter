@@ -1,0 +1,26 @@
+{
+  "name": "vue-ts",
+  "version": "0.0.1",
+  "description": "Vue TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "typescript",
+    "starter",
+    "webpack"
+  ],
+  "author": "Mike Erickson <mike.erickson@codedungeon.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.13.0"
+  }
+}
